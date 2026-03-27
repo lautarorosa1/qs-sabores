@@ -8,7 +8,7 @@
           Platos preparados con amor y los mejores ingredientes frescos.
         </p>
         <a 
-          href="https://www.instagram.com/qssabores/" 
+          href="https://wa.me/5493564307133" 
           target="_blank" 
           class="cta-button"
         >
